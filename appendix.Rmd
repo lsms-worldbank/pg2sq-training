@@ -1,0 +1,37 @@
+# (APPENDIX) Appendix {-} 
+
+
+# Abbreviations {-} 
+
+```{r acronyms, echo = FALSE, warning = FALSE, comment = FALSE, message = FALSE}
+library(kableExtra)
+library(readxl)
+
+acronyms <- read_xlsx("resources/acronyms.xlsx")
+acronyms <- acronyms[order(acronyms$acronym),]
+
+acronyms %>%
+  kbl(col.names = NULL) %>%
+  kable_styling() %>%
+  column_spec(1, bold = T)
+```
+
+# Terminology {-}
+
+The terminology for survey phases, activities and personnel can vary between organisations. The key terms used in this book are defined below.  
+
+```{r terminology, echo = FALSE, warning = FALSE, comment = FALSE, message = FALSE}
+library(kableExtra)
+library(readxl)
+
+terminology <- read_xlsx("resources/terminology.xlsx")
+terminology <- terminology[order(terminology$Concept),]
+
+terminology %>%
+  kbl() %>%
+  kable_styling() %>%
+  column_spec(1, bold = T, width_min = "10em")
+```
+
+# References {-} 
+

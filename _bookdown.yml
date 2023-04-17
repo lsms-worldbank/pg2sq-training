@@ -1,0 +1,14 @@
+book_filename: g2sq
+delete_merged_file: true
+rmd_files:
+- index.Rmd
+- trng-intro.Rmd
+- trng-plan.Rmd
+- trng-conduct.Rmd
+- trng-assess.Rmd
+- appendix.Rmd
+output_dir: docs
+language:
+  ui:
+    chapter_name: 'Chapter '
+new_session: true

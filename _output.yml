@@ -1,0 +1,24 @@
+bookdown::gitbook:
+  css: style.css
+  table_css: false
+  keep_md: false
+  includes:
+      in_header: scripts/popup.html
+  config:
+    toc:
+      collapse: section
+      before: |
+        <li><a href="./">Tackling Survey Quality: Training</a></li>
+      after: |
+        <li><a href="https://www.worldbank.org/en/programs/lsms/lsms-guidebooks" target="blank">A LSMS Guidebook</a></li>
+    edit: https://github.com/andreaskutka/g2sq/edit/master/%s
+    sharing:
+      linkedin: true
+      twitter: true
+      whatsapp: false
+      facebook: false
+      github: false
+      weibo: false
+      instapaper: false
+      vk: false
+      all: ['linkedin', 'twitter', 'whatsapp', 'facebook','github']
