@@ -1,0 +1,43 @@
+
+# Essentials {#training-essentials}
+
+## Objectives
+
+For a survey to collect high-quality data, fieldwork training should aim to achieve the following objectives: 
+
+- __Build fieldworker capability__. In-depth content training, extensive practice, and capability-based selection ensure that fieldworkers are capable of implementing the survey as designed. This is essential to limit measurement error, nonresponse error, as well as coverage and sampling errors, particularly if the survey includes listing and in-field sampling.  
+
+- __Standardize fieldworker behavior__. Repeated practice under supervision and continuous feedback streamline how fieldworkers implement the survey. Reducing idiosyncratic behavior is critical to mitigate the potentially very damaging fieldworker effect.
+
+- __Scrutinize methodology__. Ideally, this is done during pre-testing and piloting. However, particularly when this has been insufficient, fieldwork training often is effectively the most detailed review of the questionnaires, translations, CAPI, and survey processes. Identifying and correcting mistakes is key to reducing specification error.
+
+## Key recommendations
+
+Follow below key recommendations to ensure a successful fieldworker training. 
+
+1. __Engage__. As a survey designer or manager, do not simply leave the delivery of training to the survey firm, fieldwork manager, or trainers. Instead, participate actively in the training process, ensure that the content is correctly understood, explain what matters, and more. You've put a lot of effort into designing the survey - make sure it's implemented correctly.
+
+1. __Train an excess of at least 20% of fieldworkers.__ This allows for meaningful competency-based fieldworker selection at the end of the training and to have a reserve of fieldworkers. If working with unknown teams, mainly new recruits, or expected high attrition, increase the excess to 40% to ensure capable fieldworkers. 
+
+1. __Assess trainees from the beginning__. Use frequent written tests throughout the training to evaluate their understanding of the survey content. Where expert measurements are required, use standardized tests to assess their skills and accuracy. Observe and rate key skills in a structured way.  
+
+1. __Select fieldworkers based on capacity__. Select interviewers, supervisors and other fieldwork roles towards the end of the training, based on capacity demonstrated during the training. Be careful when considering other criteria such as previous survey experience, as this may not be the best indicator of capacity level for the given survey.      
+
+1. __Don’t cut on duration!__ Allow at least 15 working days of fieldwork training for an LSMS-style survey with a questionnaire of 2-2.5 hours. Shorter training is normally not enough for the complex content of a socio-economic questionnaire to be learned and sufficiently practiced.
+
+1. __Keep it small__. Try not to train more than 50 people at the same time. Learning outcomes quickly decrease with larger class sizes. If necessary, try to adjust the fieldwork plan such that fewer fieldworkers work over a longer period.  
+
+1. __Sufficient and experienced trainers__. Delivering quality training is more than a full-time job. Make sure there are enough trainers and that they have solid survey, context and subject experience. Sending only a junior colleague without much experience to be in charge of the training is not a good idea. 
+
+1. __Be prepared__. Make sure questionnaires, translations, CAPI and manuals are truly ready prior to the start of training and have been thoroughly tested. Have the venue fully set up and all admin and logistics sorted before starting. The quality of training can suffer badly from insufficient preparation.   
+
+1. __Less instructional & theoretical, more interactive & hands-on__. Avoid one-directional training methods where trainers give long presentations about theory and questionnaires. Instead, engage trainees as much as possible on actual training content. Train using the manual, demonstrations, videos, real-world examples, etc.  
+
+1. __Practice, practice, practice__. Frequent practice is crucial for trainees to fully internalize the content and be able to apply it in the field. Do not leave (field) practice to the end. Practice in groups, front-of-class role-plays and with respondents on-site or in the field throughout the training.  
+
+1. __Tailored feedback__. Throughout the training, don't limit yourself to general dos and don'ts. Instead, observe trainees during practice and check their tests to understand where they may be going wrong and offer specific feedback to help them improve.
+
+1. __Go beyond the questionnaire__.  Knowing the questionnaires alone does not make good interviewers. Trainees need to learn and practice a set of interviewing techniques such as correct probing or encouraging participation as well as pre- or post-interview tasks, such as respondent selection or responding to rejected interview files in CAPI.  
+
+1. __Assess readiness for field__. At the end of the training, conduct a final field test that mimics field conditions and allows fieldworkers to be observed and evaluated before using the actual sample. If the team is not ready, extend the training by a few days to revisit and strengthen problematic areas. 
+

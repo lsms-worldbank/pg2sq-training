@@ -1,7 +1,7 @@
-# (APPENDIX) Appendix {-} 
+# Appendix {-} 
 
 
-# Abbreviations {-} 
+## Abbreviations {-} 
 
 ```{r acronyms, echo = FALSE, warning = FALSE, comment = FALSE, message = FALSE}
 library(kableExtra)
@@ -16,7 +16,7 @@ acronyms %>%
   column_spec(1, bold = T)
 ```
 
-# Terminology {-}
+## Terminology {-}
 
 The terminology for survey phases, activities and personnel can vary between organisations. The key terms used in this book are defined below.  
 
@@ -33,5 +33,5 @@ terminology %>%
   column_spec(1, bold = T, width_min = "10em")
 ```
 
-# References {-} 
+## References {-} 
 

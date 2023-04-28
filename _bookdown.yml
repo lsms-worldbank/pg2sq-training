@@ -2,7 +2,7 @@ book_filename: g2sq
 delete_merged_file: true
 rmd_files:
 - index.Rmd
-- trng-intro.Rmd
+- trng-tldr.Rmd
 - trng-plan.Rmd
 - trng-conduct.Rmd
 - trng-assess.Rmd

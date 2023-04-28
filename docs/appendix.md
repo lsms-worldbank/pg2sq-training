@@ -1,7 +1,7 @@
-# (APPENDIX) Appendix {-} 
+# Appendix {-} 
 
 
-# Abbreviations {-} 
+## Abbreviations {-} 
 
 <table class="table" style="margin-left: auto; margin-right: auto;">
 <tbody>
@@ -76,7 +76,7 @@
 </tbody>
 </table>
 
-# Terminology {-}
+## Terminology {-}
 
 The terminology for survey phases, activities and personnel can vary between organisations. The key terms used in this book are defined below.  
 
@@ -111,5 +111,5 @@ The terminology for survey phases, activities and personnel can vary between org
 </tbody>
 </table>
 
-# References {-} 
+## References {-} 
 

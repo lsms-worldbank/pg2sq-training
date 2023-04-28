@@ -2,7 +2,9 @@ fig:training-schedule
 tab:schedule-day
 tab:scoringsystem
 fig:skill-matrix
-introduction-to-training
+training-essentials
+objectives
+key-recommendations
 planning-and-preparation
 trainingsize
 trainers
