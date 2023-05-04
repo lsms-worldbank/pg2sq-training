@@ -18,7 +18,7 @@ favicon: images/favicon.ico
 # Introduction {-}
 
 :::: { .warn}
-<img src="images/warning.svg" class="svg-inline"/> **Warning: **Hello there. Thanks for dropping by.  However, you have come a bit early. This book is still work in progress and currently under review. **PLEASE DO NOT SHARE**. We look forward to seeing you back here soon, when everything is ready.  
+<img src="images/warning.svg" class="svg-inline"/> **Warning: **Hello there. Thanks for dropping by. However, you have come a bit early. This book is still work in progress and currently under review. **PLEASE DO NOT SHARE**. We look forward to seeing you back here soon, when everything is ready.  
 ::::
 
 Version 1.0.
@@ -31,6 +31,7 @@ Undoubtedly, fieldwork training is one of the most crucial activities of any sur
 
 This guide is intended to be valuable for a diverse range of survey practitioners. Survey designers and funders can benefit from guidance on the resources necessary for successful fieldwork training. Meanwhile, survey and fieldwork managers, as well as trainers, will find practical tools and tips on how to plan, prepare, and implement fieldwork training that is both effective and efficient. 
 
+This guide is organized into 4 Chapters focusing on different aspects of fieldwork training:
 
 Chapter \@ref(training-essentials) [Essentials] outlines the main objectives that fieldworker training should aim to achieve and provides a summary of key recommendations on how to effectively achieve them. If you're short on time and need a quick overview, this chapter is for you! 
 
@@ -38,18 +39,20 @@ Chapter \@ref(planning-and-preparation) [Planning and preparation] is targeted a
 
 Chapter \@ref(conducting-the-training) [Conducting the training](#conducting-the-training) is a valuable resource for trainers looking to conduct effective and efficient fieldwork training. It offers comprehensive details and step-by-step guides for different training modules. It is a highly recommended read for trainers while preparing for and conducting the training.
 
-Chapter \@ref(assess-select) [Assess & select fieldworkers](#assess-select) explains how to implement a competitive, skill-based fieldworker selection process that is crucial for achieving high-quality surveys. It is primarily aimed at trainers and offers step-by-step guides on how to effectively implement written tests, systematically evaluate skills, and select fieldworkers. Survey designers and managers may be interested in reading about the benefits of this approach that are summarized at the beginning of the chapter.  
+Chapter \@ref(assess-select) [Assess & select fieldworkers](#assess-select) explains how to implement a competitive, skill-based fieldworker selection process that is crucial for achieving high-quality surveys. It is primarily aimed at trainers and offers step-by-step guides on how to effectively implement written tests, systematically evaluate skills, and ultimately select fieldworkers. Survey designers and managers may be interested in reading about the benefits of this approach that are summarized at the beginning of the chapter.  
 
-The recommendations in this guide should be considered a helpful resource rather than a prescriptive solution. Although the methodology presented has proven effective in delivering successful fieldwork training, survey practitioners are encouraged to evaluate which improvements can be implemented given the context and constraints of their respective survey.
+The recommendations in this guide should be considered as a helpful resource rather than a prescriptive solution. Although the methodology presented has proven effective in delivering successful fieldwork training, survey practitioners are encouraged to evaluate which improvements can be implemented given the context and constraints of their respective survey.
 
-This guide is written with special reference to training for an LSMS-style surveys, i.e.,  in-person training for medium to large-scale household surveys that cover a range of socioeconomic topics and are being implemented using CAPI (with specialized guidance on the Survey Solutions CAPI platform). However, most recommendations can be easily adapted to other survey types, modalities or software packages.  
+This guide is written with special reference to training for an LSMS-style surveys, i.e., in-person training for medium- to large-scale household surveys that cover a range of socioeconomic topics and implemented using CAPI (with specialized guidance on the Survey Solutions CAPI platform). However, most recommendations can be easily adapted to other survey types, modalities or software packages.  
 
 
 ## About this series{-}
 
-In the world of international development, surveys play a crucial role in informing official statistics, public policy design, and social research. There are flagship and long-standing survey programs such as the Living Standards Measurement Study (LSMS), Multiple Indicator Cluster Surveys (MICS), and Demographic and Health Surveys (DHS) that are widely recognized as methodologically sound and producing high-quality data. However, all too often there are other surveys that adopt suboptimal methods, leading to poor-quality data due to either a lack of capacity or scarcity of resources. Given that surveys are a crucial (and often the only) source of data on socioeconomic indicators available for decision making in the developing world, it is paramount that they are of the highest possible quality.
+__This guidebook is the first in a series of guidebooks being developed by the Living Standards Measurement Study (LSMS) team focused on improving survey quality.__
 
-To address this issue, LSMS is developing a guidebook series focused on quality, aimed at steering survey practitioners away from bad practices and pointing them towards proven best practices that improve data quality - even in a resource-constrained environment. The guidebook series will produce guides for all stages of the survey life cycle, from inception, design, preparation, fieldwork training, fieldwork to post-fieldwork.
+In the world of international development, surveys play a crucial role in informing official statistics, public policy design, and social research. There are flagship and long-standing survey programs such as the LSMS, Multiple Indicator Cluster Surveys (MICS), and Demographic and Health Surveys (DHS) that are widely recognized as methodologically sound and producing high-quality data. However, all too often there are other surveys that adopt suboptimal methods, leading to poor-quality data due to either a lack of capacity or scarcity of resources. Given that surveys are a crucial (and often the only) source of data on socioeconomic indicators available for decision making in the developing world, it is paramount that they are of the highest possible quality.
+
+To address this issue, the LSMS team is developing a guidebook series aimed at steering survey practitioners away from bad practices and pointing them towards proven best practices that improve survey quality - even in a resource-constrained environment. The guidebook series will produce guides for all stages of the survey life cycle from inception, design, preparation, fieldwork training, fieldwork to post-fieldwork.
 
 Each guide in the series will provide practical and actionable guidance to optimize survey quality, including available knowledge, best practices, and practical tips. The guidebooks draw from other existing guidelines, previous similar efforts, as well as insights from the academic survey methodology literature. Perhaps more importantly, they drawn from the extensive experience of internal and external survey experts in designing and implementing complex large-scale surveys, most notably LSMS surveys that serve as the backbone of welfare and poverty measurement throughout the developing world.
 
