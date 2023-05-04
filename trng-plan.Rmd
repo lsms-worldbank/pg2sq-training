@@ -3,7 +3,7 @@
 
 This chapter presents recommendations for survey designers, survey managers and trainers on how to plan and prepare effective and efficient fieldwork training. Fieldwork training should be planned well in advance and must be well prepared. It usually consists of a main interviewer training and separate training for supervisors, data monitors or other fieldworker roles.
 
-Survey designers, please take note of the sub-chapters on [training size](#training-size), [trainers](#trainers) and [Timing & duration](#trainingduration), as they are budget and timeline relevant. For survey managers and trainers all sub-chapters are relevant to plan and prepare a solid fieldworker training.
+Survey designers, please take note of the sub-chapters on [Training size](#training-size), [Trainers](#trainers) and [Timing & duration](#trainingduration), as they are budget and timeline relevant. For survey managers and trainers all sub-chapters are relevant to plan and prepare a solid fieldworker training.
 
 ## Training size {#trainingsize}
 
