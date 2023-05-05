@@ -1,0 +1,63 @@
+# A LSMS guidebook {-} 
+
+## About LSMS  {-} 
+
+The Living Standards Measurement Study (LSMS), a survey program housed within the World Bank’s Development Data Group, provides technical assistance to national statistical offices in the design and implementation of multi-topic household surveys. Since its inception in the early 1980s, the LSMS program has worked with dozens of statistical offices around the world, generating high-quality data, developing innovative technologies and improved survey methodologies, and building technical capacity. The LSMS team also provides technical support across the World Bank in the design and implementation of household surveys and in the measurement and monitoring of poverty. 
+
+## About this eBook series{-}
+
+In the world of international development, surveys play a crucial role in informing official statistics, public policy design, and social research. There are flagship and long-standing survey programs such as the LSMS, Multiple Indicator Cluster Surveys (MICS), and Demographic and Health Surveys (DHS) that are widely recognized as methodologically sound and producing high-quality data. However, all too often there are other surveys that adopt suboptimal methods, leading to poor-quality data due to either a lack of capacity or scarcity of resources. Given that surveys are a crucial (and often the only) source of data on socioeconomic indicators available for decision making in the developing world, it is paramount that they are of the highest possible quality.
+
+To address this issue, the LSMS team is developing a guidebook series aimed at steering survey practitioners away from bad practices and pointing them towards proven best practices that improve survey quality - even in a resource-constrained environment. The guidebook series will produce guides for all stages of the survey life cycle from inception, design, preparation, fieldwork training, fieldwork to post-fieldwork.
+
+Each guide in the series will provide practical and actionable guidance to optimize survey quality, including available knowledge, best practices, and practical tips. The guidebooks draw from other existing guidelines, previous similar efforts, as well as insights from the academic survey methodology literature. Perhaps more importantly, they drawn from the extensive experience of internal and external survey experts in designing and implementing complex large-scale surveys, most notably LSMS surveys that serve as the backbone of welfare and poverty measurement throughout the developing world.
+
+Survey methodology is constantly evolving with innovative approaches to data quality assurance continually being identified, particularly with advancement of technology. As such, guides part of this series are published as eBooks online, intended to be a living documents featuring new expansions and revisions on a semi-continuous basis.
+
+## LSMS guidebooks {-}
+
+This series and other LSMS guidebooks offer information on best practices related to survey design and implementation. While the Guidebooks differ in scope, length, and style, they share a common objective: to provide statistical agencies, researchers, and practitioners with rigorous yet practical guidance on a range of issues related to designing and fielding high-quality household surveys. The series draws on experience accumulated from decades of LSMS survey implementation, the expertise of LSMS staff and other survey experts, and new research using LSMS data and methodological validation studies. 
+
+Find all the LSMS guidebooks [here](https://www.worldbank.org/en/programs/lsms/lsms-guidebooks){target="_blank"}.  
+
+```{r training-schedule, fig.show='hold', echo = FALSE, warning = FALSE, comment = FALSE, message = FALSE}
+knitr::include_graphics(c("images/worldbank.png","images/lsms.png"))
+```
+
+Copyright © `r format(Sys.Date(),"%Y")` by International Bank for Reconstruction and Development / The World Bank and World Health Organization. Some rights reserved.  
+
+The findings, interpretations, and conclusions expressed in this work do not necessarily reflect the views of The World Bank, its Board of Executive Directors, or the governments they represent, or those of WHO. The World Bank and WHO do not guarantee the accuracy, completeness, or currency of the data included in this work and does not assume responsibility for any errors, omissions, or discrepancies in the information, or liability with respect to the use of or failure to use the information, methods, processes, or conclusions set forth.  
+
+The boundaries, colors, denominations, and other information shown on any map in this work do not imply any judgment on the part of The World Bank and/or WHO concerning the legal status of any territory or the endorsement or acceptance of such boundaries. Terminology used to refer to countries, territories and areas as well as representation of countries, territories and areas, including delimitation of frontiers or boundaries, in this publication follows the institutional style and practice of the World Bank as lead publishing organization, and may be at variance with those used by the WHO. 
+
+ 
+
+Nothing herein shall constitute or be construed or considered to be a limitation upon or waiver of the privileges and immunities of The World Bank or WHO, all of which are specifically reserved. 
+
+**Rights and Permissions**
+
+This work is available under the Creative Commons Attribution 3.0 IGO license [(CC BY 3.0 IGO)](https://creativecommons.org/licenses/by/3.0/igo/){target="_blank"}. Under the Creative Commons Attribution license, you are free to copy, distribute, transmit, and adapt this work, including for commercial purposes, under the following conditions: 
+
+ 
+**Attribution**. Please, cite the work as follows:  
+World Bank and the World Health Organization. `r format(Sys.Date(), "%Y")`. A Practical Guide to Fieldwork Training. Washington, DC: World Bank. (WHO/HEP/ECH/AQH/20.01). License: Creative Commons Attribution CC BY 3.0 IGO 
+
+**Translations**. If you create a translation of this work, please add the following disclaimer along with the attribution: This translation was not created by The World Bank or WHO and should not be considered an official World Bank or WHO translation. The World Bank and WHO shall not be liable for any content or error in this translation. 
+
+**Adaptations**. If you create an adaptation of this work, please add the following disclaimer along with the attribution: This is an adaptation of an original work by The World Bank and WHO. Views and opinions expressed in the adaptation are the sole responsibility of the author or authors of the adaptation and are not endorsed by The World Bank and WHO. 
+
+**Third-party content**. The World Bank and WHO do not necessarily own each component of the content contained within the work. The World Bank and WHO therefore do not warrant that the use of any third-party-owned individual component or part contained in the work will not infringe on the rights of those third parties. The risk of claims resulting from such infringement rests solely with you. If you wish to re-use a component of the work, it is your responsibility to determine whether permission is needed for that re-use and to obtain permission from the copyright owner. Examples of components can include, but are not limited to, tables, figures, or images. 
+
+All queries on rights and licenses should be addressed to World Bank Publications, The World Bank Group, 1818 H Street NW, Washington, DC 20433, USA; e-mail: pubrights@worldbank.org. 
+
+ 
+Living Standards Measurement Study (LSMS)  
+World Bank Development Data Group (DECDG)  
+lsms@worldbank.org  
+[https://www.worldbank.org/lsms](https://www.worldbank.org/lsms){target="_blank"}  
+[data.worldbank.org](https://www.data.worldbank.org){target="_blank"} 
+
+ 
+Cover photos (from top to bottom): 
+
+INSERT PHOTO CREDITS HERE

@@ -7,6 +7,7 @@ rmd_files:
 - trng-conduct.Rmd
 - trng-assess.Rmd
 - appendix.Rmd
+- lsms-guidebook.Rmd
 output_dir: docs
 language:
   ui:
