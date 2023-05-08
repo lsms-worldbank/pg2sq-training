@@ -1,5 +1,9 @@
 # A LSMS guidebook {-} 
 
+## Acknowledgements {-}
+
+This guidebook was made possible by the generous funding from......The authors would like to thank … for ..., … for.... Our greatest appreciation goes to all the countless colleagues who devote themselves to continuously improving survey quality and whose insights and experiences have been fed into this book. 
+
 ## About LSMS  {-} 
 
 The Living Standards Measurement Study (LSMS), a survey program housed within the World Bank’s Development Data Group, provides technical assistance to national statistical offices in the design and implementation of multi-topic household surveys. Since its inception in the early 1980s, the LSMS program has worked with dozens of statistical offices around the world, generating high-quality data, developing innovative technologies and improved survey methodologies, and building technical capacity. The LSMS team also provides technical support across the World Bank in the design and implementation of household surveys and in the measurement and monitoring of poverty. 
@@ -24,6 +28,8 @@ Find all the LSMS guidebooks [here](https://www.worldbank.org/en/programs/lsms/l
 knitr::include_graphics(c("images/worldbank.png","images/lsms.png"))
 ```
 
+## Rights and permissions {-}
+
 Copyright © `r format(Sys.Date(),"%Y")` by International Bank for Reconstruction and Development / The World Bank and World Health Organization. Some rights reserved.  
 
 The findings, interpretations, and conclusions expressed in this work do not necessarily reflect the views of The World Bank, its Board of Executive Directors, or the governments they represent, or those of WHO. The World Bank and WHO do not guarantee the accuracy, completeness, or currency of the data included in this work and does not assume responsibility for any errors, omissions, or discrepancies in the information, or liability with respect to the use of or failure to use the information, methods, processes, or conclusions set forth.  
@@ -40,7 +46,7 @@ This work is available under the Creative Commons Attribution 3.0 IGO license [(
 
  
 **Attribution**. Please, cite the work as follows:  
-World Bank and the World Health Organization. `r format(Sys.Date(), "%Y")`. A Practical Guide to Fieldwork Training. Washington, DC: World Bank. (WHO/HEP/ECH/AQH/20.01). License: Creative Commons Attribution CC BY 3.0 IGO 
+World Bank. `r format(Sys.Date(), "%Y")`. A Practical Guide to Fieldwork Training. Washington, DC: World Bank. (WHO/HEP/ECH/AQH/20.01). License: Creative Commons Attribution CC BY 3.0 IGO 
 
 **Translations**. If you create a translation of this work, please add the following disclaimer along with the attribution: This translation was not created by The World Bank or WHO and should not be considered an official World Bank or WHO translation. The World Bank and WHO shall not be liable for any content or error in this translation. 
 

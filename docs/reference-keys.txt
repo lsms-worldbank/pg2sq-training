@@ -52,3 +52,4 @@ fieldworker-selection
 timing
 criteria
 selection-process
+rights-and-permissions
