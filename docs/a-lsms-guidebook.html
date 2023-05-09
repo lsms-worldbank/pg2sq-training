@@ -62,6 +62,29 @@ $(document).ready(function(){
 
 
 
+<style type="text/css">
+/* Used with Pandoc 2.11+ new --citeproc when CSL is used */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 1em;
+}
+.hanging div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}
+</style>
 
 <link rel="stylesheet" href="style.css" type="text/css" />
 </head>
@@ -82,6 +105,9 @@ $(document).ready(function(){
 <li class="chapter" data-level="" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i>Introduction</a>
 <ul>
 <li class="chapter" data-level="" data-path="index.html"><a href="index.html#about-this-guide"><i class="fa fa-check"></i>About this guide</a></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html#about-this-ebook-series"><i class="fa fa-check"></i>About this eBook series</a></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html#lsms-guidebooks"><i class="fa fa-check"></i>LSMS guidebooks</a></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html#about-lsms"><i class="fa fa-check"></i>About LSMS</a></li>
 <li class="chapter" data-level="" data-path="index.html"><a href="index.html#how-to-use-this-ebook"><i class="fa fa-check"></i>How to use this (e)Book</a></li>
 </ul></li>
 <li class="chapter" data-level="1" data-path="training-essentials.html"><a href="training-essentials.html"><i class="fa fa-check"></i><b>1</b> Essentials</a>
@@ -163,10 +189,9 @@ $(document).ready(function(){
 <li class="chapter" data-level="" data-path="a-lsms-guidebook.html"><a href="a-lsms-guidebook.html"><i class="fa fa-check"></i>A LSMS guidebook</a>
 <ul>
 <li class="chapter" data-level="" data-path="a-lsms-guidebook.html"><a href="a-lsms-guidebook.html#acknowledgements"><i class="fa fa-check"></i>Acknowledgements</a></li>
-<li class="chapter" data-level="" data-path="a-lsms-guidebook.html"><a href="a-lsms-guidebook.html#about-lsms"><i class="fa fa-check"></i>About LSMS</a></li>
-<li class="chapter" data-level="" data-path="a-lsms-guidebook.html"><a href="a-lsms-guidebook.html#about-this-ebook-series"><i class="fa fa-check"></i>About this eBook series</a></li>
-<li class="chapter" data-level="" data-path="a-lsms-guidebook.html"><a href="a-lsms-guidebook.html#lsms-guidebooks"><i class="fa fa-check"></i>LSMS guidebooks</a></li>
+<li class="chapter" data-level="" data-path="a-lsms-guidebook.html"><a href="a-lsms-guidebook.html#disclaimers"><i class="fa fa-check"></i>Disclaimers</a></li>
 <li class="chapter" data-level="" data-path="a-lsms-guidebook.html"><a href="a-lsms-guidebook.html#rights-and-permissions"><i class="fa fa-check"></i>Rights and permissions</a></li>
+<li class="chapter" data-level="" data-path="a-lsms-guidebook.html"><a href="a-lsms-guidebook.html#inquiriescontact"><i class="fa fa-check"></i>Inquiries/Contact</a></li>
 </ul></li>
 </ul>
 
@@ -190,31 +215,20 @@ $(document).ready(function(){
 <div id="acknowledgements" class="section level2 unnumbered hasAnchor">
 <h2>Acknowledgements<a href="a-lsms-guidebook.html#acknowledgements" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <p>This guidebook was made possible by the generous funding from……The authors would like to thank … for …, … for…. Our greatest appreciation goes to all the countless colleagues who devote themselves to continuously improving survey quality and whose insights and experiences have been fed into this book.</p>
-</div>
-<div id="about-lsms" class="section level2 unnumbered hasAnchor">
-<h2>About LSMS<a href="a-lsms-guidebook.html#about-lsms" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<p>The Living Standards Measurement Study (LSMS), a survey program housed within the World Bank’s Development Data Group, provides technical assistance to national statistical offices in the design and implementation of multi-topic household surveys. Since its inception in the early 1980s, the LSMS program has worked with dozens of statistical offices around the world, generating high-quality data, developing innovative technologies and improved survey methodologies, and building technical capacity. The LSMS team also provides technical support across the World Bank in the design and implementation of household surveys and in the measurement and monitoring of poverty.</p>
-</div>
-<div id="about-this-ebook-series" class="section level2 unnumbered hasAnchor">
-<h2>About this eBook series<a href="a-lsms-guidebook.html#about-this-ebook-series" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<p>In the world of international development, surveys play a crucial role in informing official statistics, public policy design, and social research. There are flagship and long-standing survey programs such as the LSMS, Multiple Indicator Cluster Surveys (MICS), and Demographic and Health Surveys (DHS) that are widely recognized as methodologically sound and producing high-quality data. However, all too often there are other surveys that adopt suboptimal methods, leading to poor-quality data due to either a lack of capacity or scarcity of resources. Given that surveys are a crucial (and often the only) source of data on socioeconomic indicators available for decision making in the developing world, it is paramount that they are of the highest possible quality.</p>
-<p>To address this issue, the LSMS team is developing a guidebook series aimed at steering survey practitioners away from bad practices and pointing them towards proven best practices that improve survey quality - even in a resource-constrained environment. The guidebook series will produce guides for all stages of the survey life cycle from inception, design, preparation, fieldwork training, fieldwork to post-fieldwork.</p>
-<p>Each guide in the series will provide practical and actionable guidance to optimize survey quality, including available knowledge, best practices, and practical tips. The guidebooks draw from other existing guidelines, previous similar efforts, as well as insights from the academic survey methodology literature. Perhaps more importantly, they drawn from the extensive experience of internal and external survey experts in designing and implementing complex large-scale surveys, most notably LSMS surveys that serve as the backbone of welfare and poverty measurement throughout the developing world.</p>
-<p>Survey methodology is constantly evolving with innovative approaches to data quality assurance continually being identified, particularly with advancement of technology. As such, guides part of this series are published as eBooks online, intended to be a living documents featuring new expansions and revisions on a semi-continuous basis.</p>
-</div>
-<div id="lsms-guidebooks" class="section level2 unnumbered hasAnchor">
-<h2>LSMS guidebooks<a href="a-lsms-guidebook.html#lsms-guidebooks" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<p>This series and other LSMS guidebooks offer information on best practices related to survey design and implementation. While the Guidebooks differ in scope, length, and style, they share a common objective: to provide statistical agencies, researchers, and practitioners with rigorous yet practical guidance on a range of issues related to designing and fielding high-quality household surveys. The series draws on experience accumulated from decades of LSMS survey implementation, the expertise of LSMS staff and other survey experts, and new research using LSMS data and methodological validation studies.</p>
+<p>Cover photos (from top to bottom):</p>
+<p>INSERT PHOTO CREDITS HERE</p>
 <p>Find all the LSMS guidebooks <a href="https://www.worldbank.org/en/programs/lsms/lsms-guidebooks" target="_blank">here</a>.</p>
 <p><img src="images/worldbank.png" /><img src="images/lsms.png" /></p>
 </div>
-<div id="rights-and-permissions" class="section level2 unnumbered hasAnchor">
-<h2>Rights and permissions<a href="a-lsms-guidebook.html#rights-and-permissions" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<div id="disclaimers" class="section level2 unnumbered hasAnchor">
+<h2>Disclaimers<a href="a-lsms-guidebook.html#disclaimers" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <p>Copyright © 2023 by International Bank for Reconstruction and Development / The World Bank and World Health Organization. Some rights reserved.</p>
 <p>The findings, interpretations, and conclusions expressed in this work do not necessarily reflect the views of The World Bank, its Board of Executive Directors, or the governments they represent, or those of WHO. The World Bank and WHO do not guarantee the accuracy, completeness, or currency of the data included in this work and does not assume responsibility for any errors, omissions, or discrepancies in the information, or liability with respect to the use of or failure to use the information, methods, processes, or conclusions set forth.</p>
 <p>The boundaries, colors, denominations, and other information shown on any map in this work do not imply any judgment on the part of The World Bank and/or WHO concerning the legal status of any territory or the endorsement or acceptance of such boundaries. Terminology used to refer to countries, territories and areas as well as representation of countries, territories and areas, including delimitation of frontiers or boundaries, in this publication follows the institutional style and practice of the World Bank as lead publishing organization, and may be at variance with those used by the WHO.</p>
-<p>Nothing herein shall constitute or be construed or considered to be a limitation upon or waiver of the privileges and immunities of The World Bank or WHO, all of which are specifically reserved.</p>
-<p><strong>Rights and Permissions</strong></p>
+<p>Nothing herein shall constitute or be construed or considered to be a limitation upon or waiver of the privileges and immunities of The World Bank, all of which are specifically reserved.</p>
+</div>
+<div id="rights-and-permissions" class="section level2 unnumbered hasAnchor">
+<h2>Rights and permissions<a href="a-lsms-guidebook.html#rights-and-permissions" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <p>This work is available under the Creative Commons Attribution 3.0 IGO license <a href="https://creativecommons.org/licenses/by/3.0/igo/" target="_blank">(CC BY 3.0 IGO)</a>. Under the Creative Commons Attribution license, you are free to copy, distribute, transmit, and adapt this work, including for commercial purposes, under the following conditions:</p>
 <p><strong>Attribution</strong>. Please, cite the work as follows:<br />
 World Bank. 2023. A Practical Guide to Fieldwork Training. Washington, DC: World Bank. (WHO/HEP/ECH/AQH/20.01). License: Creative Commons Attribution CC BY 3.0 IGO</p>
@@ -222,13 +236,14 @@ World Bank. 2023. A Practical Guide to Fieldwork Training. Washington, DC: World
 <p><strong>Adaptations</strong>. If you create an adaptation of this work, please add the following disclaimer along with the attribution: This is an adaptation of an original work by The World Bank and WHO. Views and opinions expressed in the adaptation are the sole responsibility of the author or authors of the adaptation and are not endorsed by The World Bank and WHO.</p>
 <p><strong>Third-party content</strong>. The World Bank and WHO do not necessarily own each component of the content contained within the work. The World Bank and WHO therefore do not warrant that the use of any third-party-owned individual component or part contained in the work will not infringe on the rights of those third parties. The risk of claims resulting from such infringement rests solely with you. If you wish to re-use a component of the work, it is your responsibility to determine whether permission is needed for that re-use and to obtain permission from the copyright owner. Examples of components can include, but are not limited to, tables, figures, or images.</p>
 <p>All queries on rights and licenses should be addressed to World Bank Publications, The World Bank Group, 1818 H Street NW, Washington, DC 20433, USA; e-mail: <a href="mailto:pubrights@worldbank.org" class="email">pubrights@worldbank.org</a>.</p>
+</div>
+<div id="inquiriescontact" class="section level2 unnumbered hasAnchor">
+<h2>Inquiries/Contact<a href="a-lsms-guidebook.html#inquiriescontact" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <p>Living Standards Measurement Study (LSMS)<br />
 World Bank Development Data Group (DECDG)<br />
 <a href="mailto:lsms@worldbank.org" class="email">lsms@worldbank.org</a><br />
 <a href="https://www.worldbank.org/lsms" target="_blank">https://www.worldbank.org/lsms</a><br />
 <a href="https://www.data.worldbank.org" target="_blank">data.worldbank.org</a></p>
-<p>Cover photos (from top to bottom):</p>
-<p>INSERT PHOTO CREDITS HERE</p>
 
 </div>
 </div>
