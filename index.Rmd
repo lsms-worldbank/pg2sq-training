@@ -45,9 +45,9 @@ The recommendations in this guide should be considered as a helpful resource rat
 
 This guide is written with reference to training for an LSMS-style surveys, i.e., in-person training for medium- to large-scale household surveys that cover a range of socioeconomic topics and implemented using CAPI (with specific guidance for [Survey Solutions](https://mysurvey.solutions/){target="_blank"}). However, most recommendations can be easily adapted to other survey types, modes, or software packages.  
 
-This guidebook is the first in the Survey Quality Series, developed by the Living Standards Measurement Study (LSMS) team.
+This guidebook is the first in a series of *Practical Guides to Survey Quality*, developed by the Living Standards Measurement Study (LSMS) team.
 
-## About the Survey Quality Series{-}
+## About this series{-}
 
 In the world of international development, surveys play a crucial role in informing official statistics, public policy design, and social research. There are flagship and long-standing survey programs such as the LSMS, Multiple Indicator Cluster Surveys (MICS), and Demographic and Health Surveys (DHS) that are widely recognized as methodologically sound and producing high-quality data. However, all too often there are other surveys that adopt suboptimal methods, leading to poor-quality data due to either a lack of capacity or scarcity of resources. Given that surveys are a crucial (and often the only) source of data on socioeconomic indicators available for decision making in the developing world, it is paramount that they are of the highest possible quality.
 
