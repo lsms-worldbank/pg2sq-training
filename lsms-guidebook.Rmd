@@ -8,7 +8,6 @@ Cover photos (from top to bottom):
 
 INSERT PHOTO CREDITS HERE
 
-Find all the LSMS guidebooks [here](https://www.worldbank.org/en/programs/lsms/lsms-guidebooks){target="_blank"}.  
 
 ```{r training-schedule, fig.show='hold', echo = FALSE, warning = FALSE, comment = FALSE, message = FALSE}
 knitr::include_graphics(c("images/worldbank.png","images/lsms.png"))
@@ -41,7 +40,7 @@ World Bank. `r format(Sys.Date(), "%Y")`. A Practical Guide to Fieldwork Trainin
 
 All queries on rights and licenses should be addressed to World Bank Publications, The World Bank Group, 1818 H Street NW, Washington, DC 20433, USA; e-mail: pubrights@worldbank.org. 
 
-## Inquiries/Contact {-} 
+## Inquiries {-} 
 
 Living Standards Measurement Study (LSMS)  
 World Bank Development Data Group (DECDG)  
