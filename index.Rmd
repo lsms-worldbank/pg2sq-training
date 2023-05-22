@@ -61,7 +61,7 @@ Survey methodology is constantly evolving with innovative approaches to data qua
 
 **About LSMS**. The Living Standards Measurement Study (LSMS), a survey program housed within the World Bank’s Development Data Group, provides technical assistance to national statistical offices in the design and implementation of multi-topic household surveys. Since its inception in the early 1980s, the LSMS program has worked with dozens of statistical offices around the world, generating high-quality data, developing innovative technologies and improved survey methodologies, and building technical capacity. The LSMS team also provides technical support across the World Bank in the design and implementation of household surveys and in the measurement and monitoring of poverty. 
 
-## How to use this (e)Book{-}
+## How to use this (e)book{-}
 
 __Hit the highlights.__ Read the [essentials] and the beginning of (sub-)chapters of interest. Most start by explaining the rationale, main objectives and context, before diving into detail.    
 

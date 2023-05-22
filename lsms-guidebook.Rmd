@@ -2,7 +2,7 @@
 
 ## Acknowledgements {-}
 
-This guidebook was made possible by the generous funding from......The authors would like to thank … for ..., … for.... Our greatest appreciation goes to all the countless colleagues who devote themselves to continuously improving survey quality and whose insights and experiences have been fed into this book. 
+<!--# This guidebook was made possible by the generous funding from...... -->The authors would like to thank THIS-COULD-BE-YOUR-NAME for ....  Our greatest appreciation goes to all the countless colleagues who devote themselves to continuously improving survey quality and whose insights and experiences have been fed into this book. 
 
 Cover photos (from top to bottom): 
 
