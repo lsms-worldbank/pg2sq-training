@@ -17,7 +17,7 @@ favicon: images/favicon.ico
 
 # Welcome! {-}
 
-<img src="images/cover_page.svg" style="position:absolute;top:0px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+<img src="images/cover_page.svg" style="position:absolute;height:800px;top:0px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 " />   
   
 ![](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==){height=500px}  

@@ -20,6 +20,10 @@ Nothing herein shall constitute or be construed or considered to be a limitation
 
 ## Rights and permissions {-}
 
+
+[![https://creativecommons.org/licenses/by/3.0/igo/](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png){width=100px}](https://creativecommons.org/licenses/by/3.0/igo/){target="_blank"}
+
+
 This work is available under the Creative Commons Attribution 3.0 IGO license [(CC BY 3.0 IGO)](https://creativecommons.org/licenses/by/3.0/igo/){target="_blank"}. Under the Creative Commons Attribution license, you are free to copy, distribute, transmit, and adapt this work, including for commercial purposes, under the following conditions: 
 
  
