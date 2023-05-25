@@ -8,11 +8,6 @@ Cover photos (from top to bottom):
 
 INSERT PHOTO CREDITS HERE
 
-
-```{r training-schedule, fig.show='hold', echo = FALSE, warning = FALSE, comment = FALSE, message = FALSE}
-knitr::include_graphics(c("images/worldbank.png","images/lsms.png"))
-```
-
 ## Disclaimers {-}
 
 Copyright © `r format(Sys.Date(),"%Y")` by International Bank for Reconstruction and Development / The World Bank. Some rights reserved.  

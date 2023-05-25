@@ -1,6 +1,6 @@
 --- 
 title: "A Practical Guide to Fieldwork Training"
-author: "Andreas Kutka, Josefine Durazo, Kevin McGee, James Arthur Shaw"
+author: "Andreas Kutka, Josefine Durazo, Kevin McGee, and James Arthur Shaw"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [references.bib]
@@ -15,7 +15,12 @@ github-repo: andreaskutka/g2sq
 favicon: images/favicon.ico
 ---
 
-# Introduction {-}
+# Welcome! {-}
+
+<img src="images/cover_page.svg" style="position:absolute;top:0px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+" />   
+  
+![](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==){height=500px}  
 
 :::: { .warn}
 <img src="images/warning.svg" class="svg-inline"/> **Warning: **Hello there. Thanks for dropping by. However, you have come a bit early. This book is still work in progress and currently under review. **PLEASE DO NOT SHARE**. We look forward to seeing you back here soon, when everything is ready.  
