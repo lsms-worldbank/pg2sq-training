@@ -17,10 +17,10 @@ favicon: images/favicon.ico
 
 # Welcome! {-}
 
-<img src="images/cover_page.svg" style="position:absolute;height:800px;top:0px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+<img src="images/title.svg" style="position:static;top:0px;width:100%;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 " />   
   
-![](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==){height=500px}  
+![](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==){height=75vw}  
 
 :::: { .warn}
 <img src="images/warning.svg" class="svg-inline"/> **Warning: **Hello there. Thanks for dropping by. However, you have come a bit early. This book is still work in progress and currently under review. **PLEASE DO NOT SHARE**. We look forward to seeing you back here soon, when everything is ready.  
