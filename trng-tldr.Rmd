@@ -7,7 +7,7 @@ For a survey to collect high-quality data, fieldwork training should aim to achi
 
 - __Build fieldworker capability__. In-depth content training, extensive practice, and capability-based selection ensure that fieldworkers are capable of implementing the survey as designed. This is essential to limit measurement error, nonresponse error, as well as coverage and sampling errors, particularly if the survey includes listing and in-field sampling.  
 
-- __Standardize fieldworker behavior__. Repeated practice under supervision and continuous feedback streamline how fieldworkers implement the survey. Reducing idiosyncratic behavior is critical to mitigate the potentially very damaging fieldworker effect.
+- __Standardize fieldworker behavior__. Repeated practice under supervision and continuous feedback streamline how fieldworkers implement the survey. Reducing idiosyncratic behavior is critical to mitigate the  fieldworker effect, i.e., survey error not being random, but related to specific interviewers, which can have very damaging effects on survey accuracy.
 
 - __Scrutinize methodology__. Ideally, this is done during pre-testing and piloting. However, particularly when this has been insufficient, fieldwork training often is effectively the most detailed review of the questionnaires, translations, CAPI, and survey processes. Identifying and correcting mistakes is key to reducing specification error.
 
@@ -23,7 +23,7 @@ Follow below key recommendations to ensure a successful fieldworker training.
 
 1. __Select fieldworkers based on capacity__. Select interviewers, supervisors and other fieldwork roles towards the end of the training, based on capacity demonstrated during the training. Be careful when considering other criteria such as previous survey experience, as this may not be the best indicator of capacity level for the given survey.      
 
-1. __Don’t cut on duration!__ Allow at least 15 working days of fieldwork training for an LSMS-style survey with a questionnaire of 2-2.5 hours. Shorter training is normally not enough for the complex content of a socio-economic questionnaire to be learned and sufficiently practiced.
+1. __Don’t cut on duration!__ Allow at least 15 working days of fieldwork training for an LSMS-style survey with a questionnaire of 2-2.5 hours. Shorter training is normally not enough for the complex content of a socio-economic questionnaire to be learned and sufficiently practiced. Build enough time into the survey schedule for preparation, pre-test and pilot, so you do not have to cut short the training if there are any delays.
 
 1. __Keep it small__. Try not to train more than 50 people at the same time. Learning outcomes quickly decrease with larger class sizes. If necessary, try to adjust the fieldwork plan such that fewer fieldworkers work over a longer period.  
 
