@@ -2,8 +2,6 @@ bookdown::gitbook:
   css: style.css
   table_css: false
   keep_md: false
-  includes:
-      in_header: scripts/popup.html
   config:
     toc:
       collapse: section
