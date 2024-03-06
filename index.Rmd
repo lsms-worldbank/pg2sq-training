@@ -60,7 +60,11 @@ Survey methodology is constantly evolving with innovative approaches to data qua
 
 **LSMS guidebooks**. This series and other LSMS guidebooks offer information on best practices related to survey design and implementation. While the Guidebooks differ in scope, length, and style, they share a common objective: to provide statistical agencies, researchers, and practitioners with rigorous yet practical guidance on a range of issues related to designing and fielding high-quality household surveys. The series draws on experience accumulated from decades of LSMS survey implementation, the expertise of LSMS staff and other survey experts, and new research using LSMS data and methodological validation studies.  [Find all the LSMS guidebooks here.](https://www.worldbank.org/en/programs/lsms/lsms-guidebooks){target="_blank"}  
 
+
 **About LSMS**. The Living Standards Measurement Study (LSMS), a survey program housed within the World Bank’s Development Data Group, provides technical assistance to national statistical offices in the design and implementation of multi-topic integrated household surveys. Since its inception in the early 1980s, the LSMS program has worked with dozens of statistical offices around the world, generating high-quality data, developing innovative technologies and improved survey methodologies, and building technical capacity. The LSMS team also provides technical support across the World Bank in the design and implementation of household surveys and in the measurement and monitoring of poverty. 
+
+<img src="images/LSMS-Logo_300dpi_06.png" style="height: 6em; margin-right: 10%;" /><img src="images/WB-WBG-horizontal-RGB.png" style="height: 4em;" />
+
 
 ## How to use this (e)book{-}
 
