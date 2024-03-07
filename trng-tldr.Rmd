@@ -15,7 +15,7 @@ For a survey to collect high-quality data, fieldwork training should aim to achi
 
 Follow below key recommendations to ensure a successful fieldworker training. 
 
-1. __Engage__. As a survey designer or manager, do not simply leave the delivery of training to the survey firm, fieldwork manager, or trainers. Instead, participate actively in the training process, ensure that the content is correctly understood, explain what matters, and more. You've put a lot of effort into designing the survey - make sure it's implemented correctly.
+1. __Close your laptop and engage__. As a survey designer or manager, do not simply leave the delivery of training to the survey firm, fieldwork manager, or trainers. Instead, participate actively in the training process, ensure that the content is correctly understood, explain what matters, and more. You've put a lot of effort into designing the survey - make sure it's implemented correctly.
 
 1. __Train an excess of at least 20% of fieldworkers.__ This allows for meaningful competency-based fieldworker selection at the end of the training and to have a reserve of fieldworkers. If working with unknown teams, mainly new recruits, or expected high attrition, increase the excess to 40% to ensure capable fieldworkers. 
 

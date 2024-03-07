@@ -50,9 +50,9 @@ Throughout the fieldwork training, consider the following points:
 :::: {.tool}
 <img src="images/tool.svg" class="svg-inline"/> **Tools:**
 
-- ideas for [group games](https://www.sessionlab.com/blog/large-group-games-and-activities/#){target="_blank"}  
-- sample training [feedback form](resources/training_feedack_form.docx)  
-- [random name picker](https://wheelofnames.com){target="_blank"} to select trainees
+- Ideas for [group games](https://www.sessionlab.com/blog/large-group-games-and-activities/#){target="_blank"}  
+- Sample training [feedback form](resources/training_feedack_form.docx)  
+- [Random name picker](https://wheelofnames.com){target="_blank"} to select trainees
 ::::
 
 ## Welcome/introduction

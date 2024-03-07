@@ -1,6 +1,5 @@
 --- 
 title: "A Practical Guide to Fieldwork Training"
-author: "Andreas Kutka, Josefine Durazo, Kevin McGee, and James Arthur Shaw"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [references.bib]
@@ -22,9 +21,14 @@ favicon: images/favicon.ico
   
 ![](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==){height=75vw}
 
-Version 1.0.
+Version 1.0. Last updated on `r format(Sys.Date(),"%d %B %Y")`.
 
-Last updated on `r format(Sys.Date(),"%d %B %Y")`.
+**Authors**:  
+[Andreas Kutka](https://rowsquared.com/team/andreas-kutka){target="_blank"} - Data Enthusiast and Co-founder at rowsquared.   
+*Josefine Durazo* - Survey Specialist at the World Bank LSMS team.  
+[Kevin McGee](https://www.worldbank.org/en/about/people/k/kevin-robert-mcgee){target="_blank"} - Senior Economist at the World Bank LSMS team.   
+*James Arthur Shaw* - Survey Specialist at the World Bank LSMS team.  
+
 
 ## About this guide{-}
 
@@ -81,3 +85,5 @@ __Edit__. You can edit the book! Yes, you read this correctly. If you come acros
 __Comment__. If you have any suggestions but prefer to not edit the book, please list an [issue on GitHub](https://github.com/andreaskutka/g2sq/issues/new){target="_blank"} or email lsms@worldbank.org. Thank you!
 
 __Share__. You can share the book or any chapter using the sharing icons on the top right. Each chapter and sub-chapter have specific links. Copy the link, either by right clicking on the blue # icon next to the heading and copying the link address, or by clicking on the (sub)chapter in the table of content and copying the URL from the browser. 
+
+__Cite__. Kutka, Andreas; Durazo, Josefine; McGee, Kevin; Shaw, James Arthur (2023), *"A Practical Guide to Fieldwork Training"*. LSMS Guidebook Washington, D.C. : World Bank Group. https://lsms-worldbank.github.io/pg2sq-training.
