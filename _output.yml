@@ -10,7 +10,7 @@ bookdown::gitbook:
         <img src="images/LSMS-Logo_300dpi_06.png" style="width: 13em; margin-left: 15px; margin-top: 15px;" />
       after:  |
         <img src="images/WB-WBG-horizontal-RGB.png" style="width: 14em; margin-left: 15px; margin-top: 10px;" />
-    edit: https://github.com/andreaskutka/g2sq-training/edit/main/%s
+    edit: https://github.com/lsms-worldbank/pg2sq-training/edit/main/%s
     sharing:
       linkedin: true
       twitter: true
