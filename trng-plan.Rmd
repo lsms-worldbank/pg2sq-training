@@ -243,9 +243,7 @@ Avoid wasting precious training time by preparing in advance as much of the mate
 - __Fieldworker manuals__. Realistically, fieldworker manuals tend not to be used during fieldwork. Their primary value lies as a reference during training and later, for data users, to help them interpret questions and concepts. The content of manuals should mirror the actual training and how fieldworkers interpret questions and concepts. Unfortunately, this is often not the case. For manuals to be useful, good drafts for interviewer, supervisor, and any other fieldworker roles should be available to trainees from the start of training. Modifications and additions to the manuals should be made during training. Manuals should be constantly referred to throughout the training so that trainees develop the habit of consulting them as a knowledge base. It is beneficial to hand out printed versions of the manual at the beginning (as drafts) and at the end (as revised copies), or to provide regularly updated soft copies in PDF format, which trainees can access on their devices—a method that tends to work very well. 
 
 :::: {.tool}
-<img src="images/tool.svg" class="svg-inline"/> **Tools:**
-
-The R application [Survey Solutions Questionnaire Manual Generator](https://github.com/michael-cw/susoquestionnairemanual){target="_blank"}
+<img src="images/tool.svg" class="svg-inline"/> **Tool:** The R application [Survey Solutions Questionnaire Manual Generator](https://github.com/michael-cw/susoquestionnairemanual){target="_blank"}
 is a useful tool to generate questionnaire manuals in Word, PowerPoint or Html format from a Survey Solutions questionnaire. 
 ::::
 
