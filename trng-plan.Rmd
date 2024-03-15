@@ -256,3 +256,6 @@ is a useful tool to generate questionnaire manuals in Word, PowerPoint or Html f
 - __Facilitation material__. This includes microphones and speakers (with batteries and fully tested), flip charts with markers in multiple colors for drawing, name tags/stickers for all participants, printed attendance lists and feedback forms, notebooks, pens in 2 colors, and clipboards for trainees, etc. It tends to be useful to have a printer or printing facilities in or very near the venue to allow ad-hoc printing of exercises, tests, etc.   
 
 - __Field work logistics and material__. All necessary logistics need to be in place to allow fieldwork to commence immediately after training. This includes fieldworker contracts ready to be signed upon selection, covering insurance policies, payment arrangements, transport, accommodation, etc. Similarly, have all fieldwork equipment ready, such as ID cards, letters of introduction (if needed), back packs, stationary (pens, pencils, paper, etc.), raincoats/boots, battery packs, t-shirts, respondent incentives, etc.
+
+
+<img src="images/LSMS-Logo_300dpi_06.png" style="height: 6em; margin-right: 10%;" /><img src="images/WB-WBG-horizontal-RGB.png" style="height: 4em;" />

@@ -1,4 +1,5 @@
 fig:training-schedule
+tab:unnamed-chunk-1
 tab:schedule-day
 tab:scoringsystem
 fig:skill-matrix
