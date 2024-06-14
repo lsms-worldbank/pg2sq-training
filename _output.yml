@@ -1,4 +1,6 @@
 bookdown::gitbook:
+  includes:
+    before_body: google-analytics-tag.html
   css: style.css
   table_css: false
   keep_md: false
